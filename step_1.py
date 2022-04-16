@@ -4,5 +4,4 @@ def number(a, b):
     return summa_1, summa_2
 
 
-
 print(number(4, 6))
